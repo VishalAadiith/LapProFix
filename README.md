@@ -3,16 +3,12 @@
 _LapProFix_ is a open source web application designed to provide users with a convenient way to book laptop repair services from certified service centers. The platform emphasizes user experience by allowing for easy service booking, real-time progress tracking, and interactive support through a built-in chatbot.
 
 ## Table of Contents
-- [Guidelines](#guidelines)
+- [Setup](#setup)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Hacktoberfest](#hacktoberfest)
-- [Contributors](#-our-contributors)
 
-## Guidelines
-### 🚀 How to Contribute
 
-We welcome all contributors! Whether you're a seasoned developer or a newbie in open source, follow these steps to contribute:
+## Setup
 
 1. **Fork the Repository**
 
@@ -59,24 +55,6 @@ git push origin your_branch
  Go to your forked repository on GitHub and create a pull request to the main repository _and i'll merge it as soon as i can._
 
 
-### 🌟 What Can You Contribute?
-
-There are several ways you can help improve **LapProFix**:
-
-- **🛠️ Bug Fixes**: Found a bug? We’d love your help fixing it.
-- **📦 New Features**: Have a cool idea to make the platform better? Add it!
-- **📜 Documentation**: If you think our docs can be improved, feel free to enhance them.
-- **💡 Ideas & Discussions**: You can open an issue to discuss new features or improvements.
-
-### 📜 Contribution Guidelines
-
-To maintain quality and consistency, please adhere to the following guidelines:
-
-1. **Code Style**: Follow the coding style used throughout the project. Clean, readable code with comments is always appreciated.
-2. **Commits**: Write meaningful commit messages.
-3. **Pull Requests**: Make sure PRs are focused, well-explained, and reference any issues they address.
-4. **Testing**: Ensure that your changes are well-tested locally and don’t break existing functionality.
-5. **Environment Setup**: Make sure your `.env` file and MongoDB connection are properly configured.
 
 ## Features
 - _User Authentication_: Users can sign up and log in securely to manage their bookings.
@@ -114,30 +92,4 @@ To maintain quality and consistency, please adhere to the following guidelines:
   - dotenv: For managing environment variables.
   - Bcrypt.js: For hashing user passwords.
 
-
-## Hacktoberfest
-
-We are proud participants of **Hacktoberfest 2024**! Here's how to get started:
-
-- [Register for Hacktoberfest](https://hacktoberfest.com) to get started.
-- Open at least 4 quality PRs during October and help us improve **LapProFix**!
-
-Make sure your PRs are:
-
-- **Focused**: Try to keep them small and meaningful.
-- **High-Quality**: Test your changes and follow best practices.
-
-## 👀 Our Contributors
-
-- We extend our heartfelt gratitude for your invaluable contribution to our project! Your efforts play a pivotal role in elevating LapProFix to greater heights.
-- Make sure you show some love by giving ⭐ to our repository.
-
-<div align="center">
-  <a href="https://github.com/VishnuAmit/LapProFix">
-    <img src="https://contrib.rocks/image?repo=VishnuAmit/LapProFix&&max=1000" />
-  </a>
-</div>
-<br><br>
-  
-**Happy Coding 💻 and we look forward to your contributions during **Hacktoberfest 2024**! 🎃**
 
